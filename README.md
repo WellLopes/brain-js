@@ -29,7 +29,7 @@
   
    #### Depois de todo executado, fui no terminal do Visual Studio Code e digitei
 
-     `npm install brain.js`
+   ```npm install brain.js```
 
 ## Cosiderações finais
 
