@@ -1,7 +1,7 @@
 # Problemas ao instalar o brain.js? #
 
   * Primeiro temos que saber como instalar via terminal
-  `Se você ainda não sabe fazer isso assista: https://www.youtube.com/watch?v=RfbgCBCWME8 `
+  Se você ainda não sabe fazer isso [assista](https://www.youtube.com/watch?v=RfbgCBCWME8)
 
 ## Se você está com um erro parecido com esse
 
@@ -17,7 +17,7 @@
 
  ### Linhas de comandos executadas
   
-  * `Desinstalei todas as versões do python que tinha na máquina`
+  * Desinstalei todas as versões do python que tinha na máquina
     ```npm install -g node-gyp```
     ```npm install -g windows-build-tools``` - Não se preocupe, aqui irá demorar na instalação.
     ```npm config set python python2.7```
@@ -29,5 +29,5 @@
 
 ## Cosiderações finais
 
-  `Essa foi a forma que funcionou para mim, espero que de alguma forma possa ajudar a vocês à instalarem essa biblioteca`
-  `E sim, a versão que roda o brain.js tem que ter o python 2.7, e quando executa o código ```npm install -g windows-build-tools``` ele já instala junto.`
+  Essa foi a forma que funcionou para mim, espero que de alguma forma possa ajudar a vocês à instalarem essa biblioteca
+  E sim, a versão que roda o brain.js tem que ter o python 2.7, e quando executa o código ```npm install -g windows-build-tools``` ele já instala junto.
