@@ -19,17 +19,17 @@
   
   * Desinstalei todas as versões do python que tinha na máquina
   
-  `npm install -g node-gyp`
-  
-  `npm install -g windows-build-tools` - Não se preocupe, aqui irá demorar na instalação.
-  
-  `npm config set python python2.7`
-  
-  `npm config set msvs_version 2017`
-  
-  #### Depois de todo executado, fui no terminal do Visual Studio Code e digitei
+   `npm install -g node-gyp`
 
-  `npm install brain.js`
+   `npm install -g windows-build-tools` - Não se preocupe, aqui irá demorar na instalação.
+
+   `npm config set python python2.7`
+
+   `npm config set msvs_version 2017`
+  
+   #### Depois de todo executado, fui no terminal do Visual Studio Code e digitei
+
+   `npm install brain.js`
 
 ## Cosiderações finais
 
